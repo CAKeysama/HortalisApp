@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801751169532",
+    "project_id": "hortalis-f297",
+    "storage_bucket": "hortalis-f297.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801751169532:android:b0ffc59ceaf9b65cce1a79",
+        "android_client_info": {
+          "package_name": "com.hortaliscompany.hortalis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKk125MDrjklYeMSZ1Vm9jF7tOlxLLBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
